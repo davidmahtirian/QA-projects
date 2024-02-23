@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#SCRUM-42] תסריט חיובי-שיתוף מוצר באמצעות פייסבוק</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://rami-levy.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [SCRUM-42]&nbsp;<a href="https://rami-levy.atlassian.net/browse/SCRUM-42">תסריט חיובי-שיתוף מוצר באמצעות פייסבוק</a>
+            <span class="subText">
+               Created: 04/Jul/23                   &nbsp;Updated: 04/Jul/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">In Progress</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://rami-levy.atlassian.net/secure/BrowseProject.jspa?id=10000">My Scrum Project</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Bug
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:8aca8c31-ce0d-4a0b-898b-7fae12b74236"
+                id="word_reporter_712020:8aca8c31-ce0d-4a0b-898b-7fae12b74236"
+                href="https://rami-levy.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A8aca8c31-ce0d-4a0b-898b-7fae12b74236">
+                    Lama Tori
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10041-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://rami-levy.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    ‏‏צילום מסך (19).png &nbsp;&nbsp;&nbsp;
+                                    <img src="https://rami-levy.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File">
+                    ‏‏צילום מסך (21).png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10041-value" class="value" bgcolor="#ffffff" width="80%">      0|i0007j:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10041-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>1.פירוט תקלה:</p>
+
+<p>יש אפשרות לשתף את המוצר באמצעות וואצפ ופייסבוק אך בבדיקה שיתוף בפייסבוק לא נתן </p>
+
+<p>כי פותח חלונית שאי אפשר ומקבלים הודעת שגיאה”Sorry, something went wrong”</p>
+
+<p>2.הפניות:</p>
+
+<p>א.בחירת המוצר שרוציים לשתף וללחץ עליו</p>
+
+<p>  ב. תופיע חלונית שיש בה סימן לשיתוף הנמצא בשמאל החלונית</p>
+
+<p>ג. נלחץ על סימן שיתוף תופיע שתי תמונות שלפייסבוק ווצאפ </p>
+
+<p>ד. נלחץ על תמונה פייסבוק ואז תופיע הודעה שגיאה שאין דף כזה ואי אפשר לעשות השיתוף </p>
+
+<p>3. שחזור צעדים </p>
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>מס' תסריט</td>
+<td class='confluenceTd'>6</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>שם תסריט</td>
+<td class='confluenceTd'>קניית מוצר -תהליך הוספה לסל</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>יוצר התסריט</td>
+<td class='confluenceTd'>למא</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>מטרת התסריט</td>
+<td class='confluenceTd'>E2E+GUI</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>תאריך</td>
+<td class='confluenceTd'>27.06.23</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>תנאים מקדימים</td>
+<td class='confluenceTd'>בחירת קטגוריה +חיפוש</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>מספר צעד</td>
+<td class='confluenceTd'>תיאור הצעד</td>
+<td class='confluenceTd'>תוצאה צפויה</td>
+<td class='confluenceTd'>תוצאה בפועל - chrome</td>
+<td class='confluenceTd'>תוצאה בפועל - edge</td>
+<td class='confluenceTd'>תוצאה בפועל -firefox</td>
+</tr>
+<tr>
+<td class='confluenceTd'>1</td>
+<td class='confluenceTd'>לחיצה על כפתור הצגת המוצר</td>
+<td class='confluenceTd'>תמונת המוצר מופיעה</td>
+<td class='confluenceTd'>תמונת המוצר מופיעה</td>
+<td class='confluenceTd'>תמונת המוצר מופיעה</td>
+<td class='confluenceTd'>תמונת המוצר מופיעה</td>
+</tr>
+<tr>
+<td class='confluenceTd'>2</td>
+<td class='confluenceTd'>לחיצה על כפתור שיתוף המוצר</td>
+<td class='confluenceTd'>תופיע חלונית שמכילה תמונה לוואצפ ופייסבוק שאפשר לשתף המוצר דרכם</td>
+<td class='confluenceTd'>החלונית נפתחה עם שתי תמונות ווצפ ופייסבוק</td>
+<td class='confluenceTd'>החלונית נפתחה עם שתי תמונות ווצפ ופייסבוק</td>
+<td class='confluenceTd'>החלונית נפתחה עם שתי תמונות ווצפ ופייסבוק</td>
+</tr>
+<tr>
+<td class='confluenceTd'>3</td>
+<td class='confluenceTd'>לחיצה על תמונת הוואצפ</td>
+<td class='confluenceTd'>יפתח אתר וואצפ</td>
+<td class='confluenceTd'>נפתח אתר ווצפ לשיתוף</td>
+<td class='confluenceTd'>נפתח אתר ווצפ לשיתוף</td>
+<td class='confluenceTd'>נפתח אתר ווצפ לשיתוף</td>
+</tr>
+<tr>
+<td class='confluenceTd'>4</td>
+<td class='confluenceTd'>לחיצה על תמונה פייסבוק</td>
+<td class='confluenceTd'>יפתח אתר פייסבוק להתחברות ולשתף המוצר</td>
+<td class='confluenceTd'>לא נפתח אתר פייסבוק להתחברות ולשתף המוצר (תקלה)</td>
+<td class='confluenceTd'>לא נפתח אתר פייסבוק להתחברות ולשתף המוצר (תקלה)</td>
+<td class='confluenceTd'>לא נפתח אתר פייסבוק להתחברות ולשתף המוצר (תקלה)</td>
+</tr>
+<tr>
+<td class='confluenceTd'>5</td>
+<td class='confluenceTd'>לחיצה על כפתור יציאה</td>
+<td class='confluenceTd'>החלונית תסגור</td>
+<td class='confluenceTd'>החלונית נסגרה וחזרה לפרטי המוצר</td>
+<td class='confluenceTd'>החלונית נסגרה וחזרה לפרטי המוצר</td>
+<td class='confluenceTd'>החלונית נסגרה וחזרה לפרטי המוצר</td>
+</tr>
+<tr>
+<td class='confluenceTd'>6</td>
+<td class='confluenceTd'>לחיצה על כפתור "+"</td>
+<td class='confluenceTd'>מוסיף אחד לכמות המוצר ומעדכן בסל הקניות</td>
+<td class='confluenceTd'>מוסיף אחד לכמות המוצר ומעדכן בסל הקניות</td>
+<td class='confluenceTd'>מוסיף אחד לכמות המוצר ומעדכן בסל הקניות</td>
+<td class='confluenceTd'>מוסיף אחד לכמות המוצר ומעדכן בסל הקניות</td>
+</tr>
+<tr>
+<td class='confluenceTd'>7</td>
+<td class='confluenceTd'>לחיצה על כפתור "-"</td>
+<td class='confluenceTd'>מוריד אחד מכמות המוצר ומעדכו בסל הקניות</td>
+<td class='confluenceTd'>מוריד אחד מכמות המוצר ומעדכו בסל הקניות</td>
+<td class='confluenceTd'>מוריד אחד מכמות המוצר ומעדכו בסל הקניות</td>
+<td class='confluenceTd'>מוריד אחד מכמות המוצר ומעדכו בסל הקניות</td>
+</tr>
+<tr>
+<td class='confluenceTd'>8</td>
+<td class='confluenceTd'>לחיצה על כפתור "360 מעלות"</td>
+<td class='confluenceTd'>תופיע התמונה בצורה 3d</td>
+<td class='confluenceTd'>מופיעה התמונה בצורה 3d</td>
+<td class='confluenceTd'>מופיעה התמונה בצורה 3d</td>
+<td class='confluenceTd'>מופיעה התמונה בצורה 3d</td>
+</tr>
+<tr>
+<td class='confluenceTd'>9</td>
+<td class='confluenceTd'>לחיצה על כפתור "סיבוב תמונה"</td>
+<td class='confluenceTd'>תמונה מסתובבת</td>
+<td class='confluenceTd'>תמונה מסתובבת</td>
+<td class='confluenceTd'>תמונה מסתובבת</td>
+<td class='confluenceTd'>תמונה מסתובבת</td>
+</tr>
+<tr>
+<td class='confluenceTd'>10</td>
+<td class='confluenceTd'>לחיצה על כפתור "יצירת זום פנימה"</td>
+<td class='confluenceTd'>תמונת המוצר תקטן</td>
+<td class='confluenceTd'>תמונת המוצר תקטן</td>
+<td class='confluenceTd'>תמונת המוצר תקטן</td>
+<td class='confluenceTd'>תמונת המוצר תקטן</td>
+</tr>
+<tr>
+<td class='confluenceTd'>11</td>
+<td class='confluenceTd'>לחיצה על "יצירת זום החוצה"</td>
+<td class='confluenceTd'>תמונת המוצר תגדל</td>
+<td class='confluenceTd'>תמונת המוצר תגדל</td>
+<td class='confluenceTd'>תמונת המוצר תגדל</td>
+<td class='confluenceTd'>תמונת המוצר תגדל</td>
+</tr>
+<tr>
+<td class='confluenceTd'>12</td>
+<td class='confluenceTd'>לחיצה על כפתור תצוגת "מסך מלא"</td>
+<td class='confluenceTd'>תפיע התמונה במסך מלא</td>
+<td class='confluenceTd'>תפיע התמונה במסך מלא</td>
+<td class='confluenceTd'>תפיע התמונה במסך מלא</td>
+<td class='confluenceTd'>תפיע התמונה במסך מלא</td>
+</tr>
+<tr>
+<td class='confluenceTd'>13</td>
+<td class='confluenceTd'>לחיצה על כפתור "הזזת התמונה"</td>
+<td class='confluenceTd'>אפשרות להזזת תמונת המוצר</td>
+<td class='confluenceTd'>אפשרות להזזת תמונת המוצר</td>
+<td class='confluenceTd'>אפשרות להזזת תמונת המוצר</td>
+<td class='confluenceTd'>אפשרות להזזת תמונת המוצר</td>
+</tr>
+<tr>
+<td class='confluenceTd'>14</td>
+<td class='confluenceTd'>לחיצה על כפתור סימון תזונתי</td>
+<td class='confluenceTd'>תופיע טבלה שמכילה ערכי סימון תזונתי למוצר</td>
+<td class='confluenceTd'>תופיע טבלה שמכילה ערכי סימון תזונתי למוצר</td>
+<td class='confluenceTd'>תופיע טבלה שמכילה ערכי סימון תזונתי למוצר</td>
+<td class='confluenceTd'>תופיע טבלה שמכילה ערכי סימון תזונתי למוצר</td>
+</tr>
+<tr>
+<td class='confluenceTd'>15</td>
+<td class='confluenceTd'>בחירת מוצרים דומים</td>
+<td class='confluenceTd'>תפתח חלונית לפרטי המוצר הדומה</td>
+<td class='confluenceTd'>תפתח חלונית לפרטי המוצר הדומה</td>
+<td class='confluenceTd'>תפתח חלונית לפרטי המוצר הדומה</td>
+<td class='confluenceTd'>תפתח חלונית לפרטי המוצר הדומה</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<p>4.סביבת עבודה :</p>
+
+<p>א. דפדפן גוגל כרום</p>
+
+<p>ב. דפדפן פיירפוקס</p>
+
+<p>ג. דפדפן מייקרוסופט אדג</p>
+
+<p>5.מסך לשיתוף מוצר </p>
+
+<p>!‏‏צילום מסך (19).png|width=1366,height=768!</p>
+
+<p>!‏‏צילום מסך (21).png|width=1366,height=768!</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Generated at Tue Jul 04 12:06:41 UTC 2023 by david mahtirian using Jira 1001.0.0-SNAPSHOT#100228-sha1:4a42edc32d9e5d218f78218c66ead98d9d1443e8.
+
+</body>
+</html>
